@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React App Using Redux to Controle states Redux-Saga
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
